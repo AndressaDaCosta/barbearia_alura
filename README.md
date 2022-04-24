@@ -26,7 +26,7 @@ Obrigado Professor Pedro Marins pela didática incrível!
 
 ## Resultado do projeto:
 
-[📁 Repositório](https://github.com/AndressaDaCosta/barbearia_alura) |  [🌎 Página](https://andressadacosta.github.io/barbearia_alura/contato.html)
+[📁 Repositório](https://github.com/AndressaDaCosta/barbearia_alura) |  [🌎 Página](https://andressadacosta.github.io/barbearia_alura/index.html)
 
 
 ## Visualização
