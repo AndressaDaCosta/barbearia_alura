@@ -18,7 +18,7 @@ Projeto final do curso de HTML e CSS da Alura + Oracle(ONE).
 - Criação de sites acessíveis a pessoas com baixa visão.
 - Criação de códigos de fácil manutenção. 
 - Resolução de conflitos de estilos.
-- Algumas práticas de responsividade. 
+- Algumas práticas pra ter um design responsivo.
 
 
 Obrigado Professor Pedro Marins pela didática incrível!
