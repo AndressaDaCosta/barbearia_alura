@@ -11,14 +11,14 @@ Projeto final do curso de HTML e CSS da Alura + Oracle(ONE).
 
 ### Aprendizado:
 
-. Construção completa de uma página utilizando HTML e CSS.
-. Utilização de API's.
-. Semântica e código limpo no CSS.
-. Pós processamento CSS
-. Criação de sites acessíveis a pessoas com baixa visão.
-. Criação de códigos de fácil manutenção. 
-. Resolução de conflitos de estilos.
-. Algumas práticas de responsividade. 
+- Construção completa de uma página utilizando HTML e CSS.
+- Utilização de API's.
+- Semântica e código limpo no CSS.
+- Pós processamento CSS
+- Criação de sites acessíveis a pessoas com baixa visão.
+- Criação de códigos de fácil manutenção. 
+- Resolução de conflitos de estilos.
+- Algumas práticas de responsividade. 
 
 
 Obrigado Professor Pedro Marins pela didática incrível!
